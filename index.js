@@ -5,4 +5,6 @@ function destructivelyAppendKitten(name) {
   kittens.push(name);
   return kittens;
 }
-fun
+function destructivelyPrependKitten(name) {
+  kittens.sh
+}
